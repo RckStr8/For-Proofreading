@@ -381,7 +381,7 @@ label sm1fs_t007:
     # The scene continues. MC watches from the wings, impressed.
     scene sm1fs_t007-60 mc-tl-dch-look2_c3 with dissolve
     mct "Taisia's actually... really good."
-    mct "For a moment, I forgot she is the badass, badmouth troublemaker"
+    mct "For a moment, I forgot she is the badass, badmouth troublemaker."
     scene sm1fs_t007-61 mc-tl-dch-dead_c1 with fade
     pause
     scene sm1fs_t007-61 mc-tl-dch-dead_c2 with dissolve

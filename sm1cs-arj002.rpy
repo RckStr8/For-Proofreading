@@ -5,7 +5,7 @@ label sm1cs_arj002:
 
     default arj_mcname = _("Master")
 
-    # AmRose walks into the studio apartment. arj is inside - near the door, mc waves to greet her. mc takling - fade in
+    # AmRose walks into the studio apartment. arj is inside - near the door, mc waves to greet her. mc talking - fade in
     scene sm1cs-arj002-01 mc-arj-enter-wave with dissolve
     play voice2 mc_hey_hey10 noloop
     mc "Hey there, long time no see! Come in, make yourself at home."
@@ -659,7 +659,7 @@ label sm1cs_arj002:
     #alt angle anim 1
     play voisex3 stacy_disappointed_oh7 noloop
     sy "Oh that is so hot."
-    mc "Fuck me, her lips feel so good"
+    mc "Fuck me, her lips feel so good."
     #alt angle anim 1
     arj "*wet, sloppy sucking*"
     ###pause animation 1
@@ -897,7 +897,7 @@ label sm1cs_arj002:
     play voisex2 mc_sex_openmoans2
     sy "Yeouch-gaaah!"
     sy "[mcname]! Don't just plow into someone when she's eating a creampie taco."
-    #arj is embararssed but can't keep herself from laughing
+    #arj is embarrassed but can't keep herself from laughing
     play voisex4 amrose_happy_laugh7 noloop
     scene sm1cs-arj002-170 mc-arj-sy-talk-laughing with dissolve
     queue voisex4 amrose_old_moaning2

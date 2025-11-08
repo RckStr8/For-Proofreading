@@ -40,7 +40,7 @@ label sm1cs_dvh003:
     scene sm1cs-dvh003-04-2 mc-dvh-office5_c2 with dissolve
     play voice2 mc_angry_errr2 noloop
     mc "The humans will die. You will be taken care of. Little Godbrand. Little vampire."
-    #me bares his teeth, as if showing fangs, still angry
+    #mc bares his teeth, as if showing fangs, still angry
     scene sm1cs-dvh003-05 mc-dvh-talk_c1 with dissolve
     play voice2 mc_angry_cough1 noloop
     mc "Little parasite. Little boat weevil who delights in making noise and pretending he is important and dangerous."

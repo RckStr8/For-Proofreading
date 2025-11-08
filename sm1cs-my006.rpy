@@ -871,7 +871,7 @@ label sm1cs_my006_next_morning:
     mc "And I mean... getting to fuck you, I mean that was like finally seeing the light for the first time."
     scene sm1cs-my006-195 my-oh-silver-tongue-devil_c1 with dissolve
     play voice3 girl34_arrogant_laugh1 noloop
-    my "Mmmm. My little charmer"
+    my "Mmmm. My little charmer."
     scene sm1cs-my006-196 mc-my-kiss_c1 with dissolve
     play voice3 girl34_sex_closedmoan3 noloop
     play voice2 d1s1_mmm noloop volume 1.4

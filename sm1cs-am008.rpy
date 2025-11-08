@@ -1331,7 +1331,7 @@ label sm1cs_am008_sex:
     scene sm1cs-am008-2-154 hotel_fun_am_talk_toshower with dissolve
     pause
     #mc getting ready to leave bed
-    scene sm1cs-am008-2-155 hotel_fun_mc_talk_getingup with dissolve
+    scene sm1cs-am008-2-155 hotel_fun_mc_talk_getting_up with dissolve
     play voice2 d1s2_hmm noloop
     mc "Cleaning off? I'll join you?"
     #am smiles back at him

@@ -2,7 +2,7 @@ label sm1cs_my005:
 
     scene sm1cs_my005-01 mc-walking-studio-holding-phone_c1 with dissolve
     pause
-    scene sm1cs_my005-02 mct-what-hell-say-sorry-wierd-competition_c1 with dissolve
+    scene sm1cs_my005-02 mct-what-hell-say-sorry-weird-competition_c1 with dissolve
     play voice2 d1s1_mmm noloop volume 1.8
     mct "What the hell am I even going to say..."
     mct "\"Sorry for the super weird swimsuit competition, and for making you moan, we all good?\""

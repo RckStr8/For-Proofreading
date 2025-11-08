@@ -711,7 +711,7 @@ label sm1ms029_talk_mes_ns:
     ns "{font=fonts/notosanskr-medium.ttf}우리는, 미스터 원더풀 딕!{/font}"
     mc "Huh?"
     # ns looks embarrassed
-    scene sm1ms029-198 ns-embarassed-oh-sorry-mcname-mes-hehehe_c1 with dissolve
+    scene sm1ms029-198 ns-embarrassed-oh-sorry-mcname-mes-hehehe_c1 with dissolve
     ns "Oh, I'm sorry, [mcname]!"
     mes "Hehehehehe."
     # mes puts her hand on mc's shoulder
