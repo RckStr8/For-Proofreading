@@ -77,7 +77,7 @@ label sm1cs_mas004:
     #nr winces and holds his stomach - eyes closed in pain
     play voice4 boy7_pain_ou3 noloop
     scene sm1cs-mas004-12 nr-talking_c1 with hpunch
-    nr "Oh tatortotts! That was a big one."
+    nr "Oh tater tots! That was a big one."
     # Nelson exits, still holding his stomach.
     scene sm1cs-mas004-13 nr-running_c1 with dissolve
     pause

@@ -27,7 +27,7 @@ label sm1ms028:
     play voice2 mc_thinking_oh1 noloop
     mc "Oh yeah. I've perused. What's on your mind, Mr. Dickles."
     play voice4 boy9_happy_laugh7_phoned noloop
-    dl "Haha. please. My friends all call me Dickles."
+    dl "Haha. Please. My friends all call me Dickles."
     dl "I'm calling because I am a fan of your work, [mcname]."
     dl "I have seen your site and your content and believe you are ready to enter the big leagues."
     scene sm1ms028-08 mc-talk-dl with dissolve
@@ -50,7 +50,7 @@ label sm1ms028:
     play voice2 mc_surprised_uh2 noloop
     mc "Fortune Blooms?"
     play voice4 boy9_yes_yep1_phoned noloop
-    dl "Yeah, the resturant at the casino. They got amazing onion blooms some days."
+    dl "Yeah, the restaurant at the casino. They got amazing onion blooms some days."
     dl "And great ambiance. Let's say four o'clock."
     scene sm1ms028-12 dl-talk-mc with dissolve
     play voice2 mc_thinking_hmm5 noloop
@@ -111,7 +111,7 @@ label sm1ms028_dress_change:
     scene sm1ms028-28 mc-talk-sy with dissolve
     play voice2 mc_yes_yes6 noloop
     mc "You do... but."
-    mc "Nevermind, we dont have time to change."
+    mc "Nevermind, we don't have time to change."
     scene sm1ms028-29 sy-talk-mc with dissolve
     play voice3 stacy_pain_huh1 noloop
     sy "Come on. Tell me."
