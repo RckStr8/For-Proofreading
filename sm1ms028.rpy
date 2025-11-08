@@ -27,7 +27,7 @@ label sm1ms028:
     play voice2 mc_thinking_oh1 noloop
     mc "Oh yeah. I've perused. What's on your mind, Mr. Dickles."
     play voice4 boy9_happy_laugh7_phoned noloop
-    dl "Haha. please. My friends all call me Dickles."
+    dl "Haha. Please. My friends all call me Dickles."
     dl "I'm calling because I am a fan of your work, [mcname]."
     dl "I have seen your site and your content and believe you are ready to enter the big leagues."
     scene sm1ms028-08 mc-talk-dl with dissolve

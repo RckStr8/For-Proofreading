@@ -492,7 +492,7 @@ label sm1cs_my006_hotel_room:
     play voisex2 mc_sex_openmoans3
     my "Oh, FUCK, [mcname]!"
     if persistent.is_special:
-        mc mc "Shit - your lips are pulling me in, Mom!"
+        mc "Shit - your lips are pulling me in, Mom!"
     else:
         mc "Shit - your lips are pulling me in!"
 
@@ -841,7 +841,7 @@ label sm1cs_my006_next_morning:
     play voice2 mc_angry_errr3 noloop
     mc "You have {i}no idea{/i} how badly I want to do that."
     if persistent.is_special:
-        mc "Believe me, Mom. if I could get out of this meeting, I would."
+        mc "Believe me, Mom. If I could get out of this meeting, I would."
     else:
         mc "Believe me, Melony, if there was any way I could get out of this business meeting I would."
     scene sm1cs-my006-188 mc-pants-on-but-have-go_c1 with dissolve

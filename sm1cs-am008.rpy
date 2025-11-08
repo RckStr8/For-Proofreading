@@ -239,7 +239,7 @@ label sm1cs_am008_continue:
             play voice3 girl22_surprised_oh noloop
             am "*sarcastically* Oh sure. Nice to have your life planned out from five to fifty."
             am "Is that what you want, [mcname]?"
-            #am really doesn't like like the idea
+            #am really doesn't like the idea
             am "Your life set out in a nice little package. No excitement. Nothing unexpected."
             am "Just talking about it makes me ready to fall asleep."
             #am happy
