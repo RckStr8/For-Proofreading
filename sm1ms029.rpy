@@ -1735,7 +1735,7 @@ label sm1ms029_rival_enters:
     #cb and ef look at each other
     #kv comes back with some masks that look nice for them
     kv "Lucky you, we have a box with extras."
-    #ef pulling on his mask - its not on his face
+    #ef pulling on his mask - it's not on his face
     "Man" "Yes..."
     #ef has his mask on
     "Man" "Lucky me."
