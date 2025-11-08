@@ -47,7 +47,7 @@ label sm1cs_dc009:
     dc "Uh huh! All part of the cop training I do!"
     # mc and dc start walking through the park
     scene sm1cs_dc009-07 mc-dc-walk4_c1 with dissolve
-    mc "Wow, I didn't realize you had to do so many number as a part of your job."
+    mc "Wow, I didn't realize you had to do so many numbers as a part of your job."
     scene sm1cs_dc009-07 mc-dc-walk4_c2 with dissolve
     dc "Yep! Statistics can be really enlightening to a police department."
     # profile shot of dc talking
@@ -113,7 +113,7 @@ label sm1cs_dc009:
     # dc looking at mc
     mc "You're a bad ass chick."
     mc "I mean you moved to a different city and clawed your way up the ranks."
-    mc "And you don't let anyone stop you from completing your tasks.{w} Not flashers or bike thiefs."
+    mc "And you don't let anyone stop you from completing your tasks.{w} Not flashers or bike thieves."
     # dc small smile
     dc "Hehehe."
     scene sm1cs_dc009-12 mc-dc-hug_c1 with dissolve
