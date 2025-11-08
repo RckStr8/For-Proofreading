@@ -191,7 +191,7 @@ label sm1cs_dc010_later:
     "Douche Cop" "Oh, that's right!"
     # co2 punches mc in the face
     scene sm1cs-dc010-33 mc-face-punch_c1 with hpunch
-    "Douche Cop" "That's for using that bitch to embarass us the other day!"
+    "Douche Cop" "That's for using that bitch to embarrass us the other day!"
     scene sm1cs-dc010-34 mc-them-talking_c1 with dissolve
     "Jerk Cop" "Woah, man."
     # co2 looking at co1

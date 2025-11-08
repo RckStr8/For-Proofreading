@@ -79,7 +79,7 @@ label sm1cs_arj003:
     # She rolls her eyes but can't hide her smile.
     scene sm1cs-arj003-24 mc_talk_glad with dissolve
     arj "*rolls eyes* No, silly. This. Just... talking. Being normal."
-    arj "It feels like it's been forever since we jus hung out.{w} No drama.{w} No baggage."
+    arj "It feels like it's been forever since we just hung out.{w} No drama.{w} No baggage."
     #mc is glad too
     mc "Yeah. I know what you mean."
     mc "It's nice not having to wonder if you're about to accuse me of data theft."

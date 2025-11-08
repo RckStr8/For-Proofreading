@@ -126,7 +126,7 @@ label sm1cs_arj002:
             #arj is a little offended - arj and mc talking - mc is apologetic
             scene sm1cs-arj002-23 mc-arj-sy-option-two-talk-offended with dissolve
             play voice4 amrose_arrogant_huh3 noloop
-            arj "Haha. So this is a consilation bang too?"
+            arj "Haha. So this is a consolation bang too?"
             scene sm1cs-arj002-24 mc-arj-sy-option-two-talk-mischevious with dissolve
             play voice2 mc_no_no6 noloop
             mc "No way! I'm sorry, I didn't mean for it to sound like {i}that{/i}."
@@ -455,7 +455,7 @@ label sm1cs_arj002:
     scene sm1cs-arj002-92 mc-arj-sy-talk-recover with dissolve
     play voice4 amrose_surprised_oh1 noloop
     arj "Oh! You're confusing me. I'm not the client. I didn't ask for anything."
-    arj "But if the client asked for waterspots, we can try that."
+    arj "But if the client asked for watersports, we can try that."
     menu:
         "Tease her" (hint="sm1cs_arj002_m03_h01"):
             $ player.set_choice("sm1cs_arj002_tease_arj")

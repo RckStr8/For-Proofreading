@@ -63,7 +63,7 @@ label sm1fs_t007:
             scene sm1fs_t007-08 mc-tl-dch-talk3_c1 with dissolve
             vs "*laughs* Don't sweat it, [mcname]. I have faith in you."
             vs "You practiced just as much as the rest of us."
-            #vs looking confindent
+            #vs looking confident
             scene sm1fs_t007-09 mc-tl-dch-talk4_c1 with dissolve
             vs "I'm sure you could do this blindfolded."
             #vs thinking - well maybe not
@@ -127,7 +127,7 @@ label sm1fs_t007:
     pause
     scene sm1fs_t007-17 mc-tl-dch-talk_c1 with dissolve
     sb "*whispers* Clean open. Good work."
-    #ruce giving instrutions
+    #Bruce giving instructions
     scene sm1fs_t007-17 mc-tl-dch-talk_c2 with dissolve
     sb "*whispers* Next task. Stage left lighting rig. Second light from the back is flickering."
     sb "*whispers* You've got about eight minutes before the next scene change."

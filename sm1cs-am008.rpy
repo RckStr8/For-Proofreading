@@ -28,7 +28,7 @@ label sm1cs_am008:
             #am talking to him
             scene sm1cs-am008-1-04 mc-ap-talk2_c2 with dissolve
             play voice3 girl22_thinking_hmm2 noloop
-            am "Quick gawking at me like a sweaty convention goer seeing a cosplayer."
+            am "Quit gawking at me like a sweaty convention goer seeing a cosplayer."
             am "I wore this to have a nice meal."
             am "Not to get drooled on."
             scene sm1cs-am008-1-07 mc-ap-sit_c2 with dissolve
@@ -538,7 +538,7 @@ label sm1cs_am008_continue:
     play voice3 girl22_happy_relief noloop
     am "Ooof. Finally."
     #am holding the nice high heels
-    am "I think I'd rather walk through fire than where shoes like these all the time."
+    am "I think I'd rather walk through fire than wear shoes like these all the time."
     #mc holds her hand and the shoes
     scene sm1cs-am008-2-04 hotel_fun_mc_talk_holdshand with dissolve
     play voice2 mc_thinking_hmm3 noloop
