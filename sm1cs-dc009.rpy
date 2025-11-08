@@ -95,7 +95,7 @@ label sm1cs_dc009:
     dc "He was removed by other officers."
     # dc looking at mc
     dc "See, police really only have one tool to deal with every situation."
-    dc "So when a situation calls for something, like, deescalation, or  something that requires like a social worker's skills..."
+    dc "So when a situation calls for something, like, de-escalation, or something that requires like a social worker's skills..."
     dc "We just, don't know how to do that."
     # dc looking back towards the corner of the park
     scene sm1cs_dc009-09 mc-dc-talk2_c2 with dissolve

@@ -17,7 +17,7 @@ label sm1cs_am008:
     play voice3 girl22_hey_simple noloop
     am "Hey."
     menu:
-        "She looks jaw droppingly gorgeous" (hint = "sm1cs_am008_m01_h01"):
+        "She looks jaw-droppingly gorgeous" (hint = "sm1cs_am008_m01_h01"):
             $ player.set_choice("sm1cs_am008_jaw_dropping")
             scene sm1cs-am008-1-04 mc-ap-talk2_c1 with dissolve
             play voice2 d3s7_mcemm noloop
