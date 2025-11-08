@@ -111,7 +111,7 @@ label sm1ms028_dress_change:
     scene sm1ms028-28 mc-talk-sy with dissolve
     play voice2 mc_yes_yes6 noloop
     mc "You do... but."
-    mc "Nevermind, we don't have time to change."
+    mc "Never mind, we don't have time to change."
     scene sm1ms028-29 sy-talk-mc with dissolve
     play voice3 stacy_pain_huh1 noloop
     sy "Come on. Tell me."
