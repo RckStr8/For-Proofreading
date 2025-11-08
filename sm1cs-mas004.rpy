@@ -178,7 +178,7 @@ label sm1cs_mas004_after_lunch:
     #mas laughs
     scene sm1cs-mas004-28 mas-mc-laughing_c2 with dissolve
     play voice3 girl28_arrogant_hah3 noloop
-    ms  "Hah, I think I saw a seagull faint  as it was flying over it."
+    ms  "Hah, I think I saw a seagull faint as it was flying over it."
     #mc smiles at her
     scene sm1cs-mas004-28 mas-mc-laughing_c1 with dissolve
     pause
@@ -269,7 +269,7 @@ label sm1cs_mas004_after_lunch:
     # MC grabs a mustard bottle, a smirk on his face.
     scene sm1cs-mas004-43 mc-mas-both-grabbing-bottles_c2 with dissolve
     play voice3 girl28_surprised_oh noloop
-    ms "Easy now."
+    ms  "Easy now."
     #mas has a ketchup bottle
     ms  "I'm armed."
     play voice2 mc_happy_hah1 noloop
@@ -762,7 +762,7 @@ label sm1cs_mas004_after_lunch:
     play voisex3 girl26_pain_fff noloop
     ms  "*happy hissing*"
     ms  "Ahuwaah..."
-    ms "Fuck. Going to change position."
+    ms  "Fuck. Going to change position."
     # Maya positions herself above MC's cock, her eyes locked on his.
     scene sm1cs-mas004-108 mas-positioning-herself_c1 with dissolve
     play voisex3 girl28_scared_aah noloop

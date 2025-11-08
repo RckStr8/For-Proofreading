@@ -2105,11 +2105,11 @@ label sm1ms029_confrontation:
     mc "Uh..."
     sy "Mmm."
     #ef smiles and gestures to her
-    "?"  "This is Carmel Blaise, my right hand."
+    "?" "This is Carmel Blaise, my right hand."
     #mc asking the guy a question
     mc "And who does that make you?"
     #ef smiles slyly
-    "?"  "Just a humble businessman."
+    "?" "Just a humble businessman."
     #ef introducing himself
     et  "Ethan Foxmorr, president and founder of Foxmorr Films."
     #sy recognizes the name

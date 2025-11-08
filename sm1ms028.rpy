@@ -281,9 +281,9 @@ label sm1ms028_location_change:
     play voice4 boy9_surprised_huh3 noloop
     dl "What are you two thinking up next?"
     if player.get_choice("pirates_movie_done") and player.get_choice("scifi_movie_done"):
-        dl "I mean anything you two do is going ot be great."
+        dl "I mean anything you two do is going to be great."
         dl "I loved the level of production for the pirates movie."
-        dl "And all those hot scenes on the spaceship. It was a real tour'de'force."
+        dl "And all those hot scenes on the spaceship. It was a real tour de force."
     elif player.get_choice("pirates_movie_done"):
         dl "The pirates adventure was solid. Love the dark and brooding redhead."
         dl "She's the kind of girl who could sell bathwater. I just know it."
