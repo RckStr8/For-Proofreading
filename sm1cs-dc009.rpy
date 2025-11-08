@@ -177,7 +177,7 @@ label sm1cs_dc009:
     # mc looking over smiling
     scene sm1cs_dc009-24 mc-dc-talk2_c1 with dissolve
     mc "Uh huh!"
-    dc "You sure? You seemd bewitched by something."
+    dc "You sure? You seemed bewitched by something."
     mct "If only she knew what was going on in my head..."
     # mc leaning into the bench, smiling
     scene sm1cs_dc009-25 mc-dc-talk3_c1 with dissolve
@@ -431,7 +431,7 @@ label sm1cs_dc009:
     jc "Hey man, I don't give a shit what she's got in her skirt."
     # co2 grabs his chest
     scene sm1cs_dc009-61 mc-dc-talk9_c3 with dissolve
-    "Douche Cop" "Yeah, it's them big ol' saggy tits! Fucking flopping around every time she's got to chase down some fucking misdeamenor creep in the park!"
+    "Douche Cop" "Yeah, it's them big ol' saggy tits! Fucking flopping around every time she's got to chase down some fucking misdemeanor creep in the park!"
     "Douche Cop" "I can see it now! Fucking running and then \"oh no, my titty just hit me in the face! Noooo!\"."
     # co1 and co2 start laughing
     scene sm1cs_dc009-62 mc-dc-laugh_c1 with dissolve
@@ -585,7 +585,7 @@ label sm1cs_dc009:
     mc "I mean... if you want to be."
     # dc looks like she's about to cry
     scene sm1cs_dc009-83 mc-dc-talk2_c2 with dissolve
-    dc "Be serious, [mcname]. You better not be pulliny mg leg."
+    dc "Be serious, [mcname]. You better not be pulling my leg."
     dc "Because I have a loaded gun, and now is {i}not{/i} a good time to be making a joke."
     # mc smiling at dc
     scene sm1cs_dc009-84 mc-dc-talk3_c1 with dissolve

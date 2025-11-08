@@ -1,6 +1,6 @@
 label sm1cs_am008:
 
-    #mc is at nice restaurant - we used this restraunt from Dahlia ending - nice resturant. - mc is talking to a waiter - Timeslot - Just before Nightime
+    #mc is at nice restaurant - we used this restaurant from Dahlia ending - nice restaurant. - mc is talking to a waiter - Timeslot - Just before Nighttime
     scene sm1cs-am008-1-01 mc-ap-entry1_c1 with dissolve
     play voice2 mc_thinking_hmm5 noloop
     mc "Uhh. I'm supposed to meet a date here."
@@ -226,7 +226,7 @@ label sm1cs_am008_continue:
     scene sm1cs-am008-1-21-2 mc-ap-talk3_c2 with dissolve
     play voice3 girl22_disgust_meeh noloop
     am "Tea parties. Cheer practice."
-    am "No college. Just a high-school degree that would sits on the shelf after getting married at eighteen."
+    am "No college. Just a high-school degree that would sit on the shelf after getting married at eighteen."
     menu:
         "Nothing wrong with that" (hint = "sm1cs_am008_m03_h01"):
             $ player.set_choice("sm1cs_am008_nothing_wrong")
@@ -603,7 +603,7 @@ label sm1cs_am008_continue:
     scene sm1cs-am008-2-20 hotel_fun_am_talk with dissolve
     play voice3 girl22_yes_yep1 noloop
     am "Fair."
-    #am is a little nervous, breathing hardery
+    #am is a little nervous, breathing harder
     scene sm1cs-am008-2-22 hotel_fun_am_talk_turnaway with dissolve
     play voice3 girl22_sex_closedmoan3 noloop
     am "But... we don't need to keep talking about books, do we, [mcname]?"
@@ -962,7 +962,7 @@ label sm1cs_am008_sex:
     if player.get_choice("sm1cs_am008_pet_play"):
         play voisex3 girl22_sexphrase_please noloop
         am "Please. I'm ready."
-        am "I want to feel your cock inside of me agin."
+        am "I want to feel your cock inside of me again."
         #am touching her pussy
         scene sm1cs-am008-2-99 hotel_fun_am_talk_annoyed with dissolve
         play voisex3 girl22_disappointed_mmm noloop
@@ -1436,7 +1436,7 @@ label sm1cs_am008_sex:
     scene sm1cs-am008-2-178 hotel_fun_am_talk_unlockphone with dissolve
     #mc's phone unlocks
     play voice3 girl22_thinking_hmm1 noloop
-    am "I'll have to show him better secruity than a pin code."
+    am "I'll have to show him better security than a pin code."
     #am finds the video of Hana talking about the end of fetish locator. Mc saved the video on his phone
     scene sm1cs-am008-2-179 hotel_fun_am_talk_video with dissolve
     hr "Despite only existing for a few weeks, the Fetish Locator app devastated dozens of lives."

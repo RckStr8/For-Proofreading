@@ -412,7 +412,7 @@ label sm1fs_t007_end_of_play:
     #A single, solitary tear drips down his cheek.
     nr "I never thought I'd cry about a story of love and tragedy..."
     nr "And pizza and brats."
-    #Maya claps beside him, enjoying the moment that her boss got so emotional, and that hte play was decent
+    #Maya claps beside him, enjoying the moment that her boss got so emotional, and that the play was decent
     scene sm1fs_t007-63 mc-tl-dch-look2_c1 with dissolve
     pause
     # The cast bows in unison.

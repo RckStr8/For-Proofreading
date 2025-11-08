@@ -613,7 +613,7 @@ label sm1cs_arj002:
     play voice4 amrose_pain_ahh2 noloop
     arj "Oh god, it's so lame. I'm such a mess."
     play voice2 mc_no_no5 noloop
-    mc "No, Amrose. Well I mean kind of."
+    mc "No, AmRose. Well I mean kind of."
     play voice4 amrose_old_haha2 noloop
     arj "*sad laughing*"
     #mc wipes away her tears
@@ -1024,7 +1024,7 @@ label sm1cs_arj002:
     scene sm1cs-arj002-188 mc-arj-sy-talk-goodnight with dissolve
     play voice3 stacy_disappointed_moan1 noloop
     sy "Sounds like you should join a gym."
-    sy "Good night, [mcname]. Good night, Amrose."
+    sy "Good night, [mcname]. Good night, AmRose."
     scene sm1cs-arj002-189 mc-arj-sy-talk-kiss-chest with dissolve
     play sound mc_kiss2
     play voice4 amrose_thinking_hmm3 noloop

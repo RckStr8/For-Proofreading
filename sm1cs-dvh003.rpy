@@ -122,8 +122,8 @@ label sm1cs_dvh003:
     scene sm1cs-dvh003-14 mc-dvh-stop_c2 with dissolve
     play voice3 girl34_arrogant_pff noloop
     dvh "Down boy. You respect this young woman, you want her to be yours, need her to be yours, but she won't play ball."
-    dvh "Show me your {b}frustrationP{/b}..."
-    dvh "{b}Tease{/b} me with your lust. Without touchimg me of course."
+    dvh "Show me your {b}frustration{/b}..."
+    dvh "{b}Tease{/b} me with your lust. Without touching me of course."
     dvh "Then you will pass."
     #mc closes his eyes and takes a deep breath, then gives a thumbs up.
     scene sm1cs-dvh003-14 mc-dvh-stop_c3 with dissolve
