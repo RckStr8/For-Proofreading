@@ -72,7 +72,7 @@ label sm1cs_dvh003:
     mc "No, I won't run. I want to do better and improve the troupe's performances."
     #mc kind of saying he expects some respect in return
     mc "But I also need you to both understand and respect my work."
-    #dvh looks a bit mischevious
+    #dvh looks a bit mischievous
     scene sm1cs-dvh003-08 mc-dvh-talk_c2 with dissolve
     play voice3 girl34_arrogant_ha4 noloop
     dvh "Lekker. Then you will strip."

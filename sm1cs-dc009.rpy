@@ -437,7 +437,7 @@ label sm1cs_dc009:
     scene sm1cs_dc009-62 mc-dc-laugh_c1 with dissolve
     jc "Hahahahah!"
     "Douche Cop" "Ohhh, my tits, ohhhhh!"
-    # mc angry, dc embarassed
+    # mc angry, dc embarrassed
     scene sm1cs_dc009-62 mc-dc-laugh_c2 with dissolve
     mc "Officer Callahan is more of a cop than either of you two shitstains."
     # co1 hands on hips

@@ -710,7 +710,7 @@ label sm1ms029_talk_mes_ns:
     mc "You two seem to be getting along well!"
     ns "{font=fonts/notosanskr-medium.ttf}우리는, 미스터 원더풀 딕!{/font}"
     mc "Huh?"
-    # ns looks embarassed
+    # ns looks embarrassed
     scene sm1ms029-198 ns-embarassed-oh-sorry-mcname-mes-hehehe_c1 with dissolve
     ns "Oh, I'm sorry, [mcname]!"
     mes "Hehehehehe."
@@ -1735,7 +1735,7 @@ label sm1ms029_rival_enters:
     #cb and ef look at each other
     #kv comes back with some masks that look nice for them
     kv "Lucky you, we have a box with extras."
-    #ef pulling on his mask - its not on his face
+    #ef pulling on his mask - it's not on his face
     "Man" "Yes..."
     #ef has his mask on
     "Man" "Lucky me."

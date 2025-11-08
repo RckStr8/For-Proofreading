@@ -12,7 +12,7 @@ label sm1cs_dc009i:
     dc "Hahahaha!"
     hide lpa_dc_excited01
     show expression cc.get_expression_image("dc", "smile01") as lpa_dc_smile01
-    dc "But, what's gonig on?"
+    dc "But, what's going on?"
     hide lpa_dc_smile01
     show expression cc.get_expression_image("dc", "serious01") as lpa_dc_serious
     dc "Is there something you need to tell a police officer about?"

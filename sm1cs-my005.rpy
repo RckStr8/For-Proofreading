@@ -176,9 +176,9 @@ label sm1cs_my005_replay hide:
     mc "Probably would have made things go smoother."
     play voice3 girl34_surprised_wow4 noloop
     if persistent.is_special:
-        my "Well, we know how mischevious your sister can be."
+        my "Well, we know how mischievous your sister can be."
     else:
-        my "Well, we know how mischevious Stacy can be."
+        my "Well, we know how mischievous Stacy can be."
     scene sm1cs_my005-40 my-never-would-guessed-mc-haah-you-right_c1 with dissolve
     play voice2 mc_happy_laugh2 noloop
     mc "Hahahahahaha! Yeah, you're right."
