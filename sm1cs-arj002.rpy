@@ -5,7 +5,7 @@ label sm1cs_arj002:
 
     default arj_mcname = _("Master")
 
-    # AmRose walks into the studio apartment. arj is inside - near the door, mc waves to greet her. mc takling - fade in
+    # AmRose walks into the studio apartment. arj is inside - near the door, mc waves to greet her. mc talking - fade in
     scene sm1cs-arj002-01 mc-arj-enter-wave with dissolve
     play voice2 mc_hey_hey10 noloop
     mc "Hey there, long time no see! Come in, make yourself at home."
@@ -127,7 +127,7 @@ label sm1cs_arj002:
             scene sm1cs-arj002-23 mc-arj-sy-option-two-talk-offended with dissolve
             play voice4 amrose_arrogant_huh3 noloop
             arj "Haha. So this is a consolation bang too?"
-            scene sm1cs-arj002-24 mc-arj-sy-option-two-talk-mischevious with dissolve
+            scene sm1cs-arj002-24 mc-arj-sy-option-two-talk-mischievous with dissolve
             play voice2 mc_no_no6 noloop
             mc "No way! I'm sorry, I didn't mean for it to sound like {i}that{/i}."
             #mc has his mischievous grin on
@@ -700,7 +700,7 @@ label sm1cs_arj002:
     play voisex4 amrose_angry_breath2 noloop
     stop voisex2 fadeout 1.0
     stop sound fadeout 1.0
-    arj "Murah-hhuaah...{w} Is my punishent over already, [arj_mcname!t]."
+    arj "Murah-hhuaah...{w} Is my punishment over already, [arj_mcname!t]."
     scene sm1cs-arj002-137 mc-arj-sy-talk-untie with dissolve
     play voisex2 mc_no_no2 noloop
     mc "Not by a long shot."
@@ -775,7 +775,7 @@ label sm1cs_arj002:
     scene sm1cs-arj002-151 mc-arj-sy-talk-mc-let-stacy-pass with dissolve
     play voisex3 stacy_happy_laugh2 noloop
     sy "I'll go easy on you."
-    #fade in - stacy is on the chair - arj is arms are ied up again - but that's really only part of her tied up. Arj is settled above the strapon-dildo
+    #fade in - stacy is on the chair - arj is arms are tied up again - but that's really only part of her tied up. Arj is settled above the strapon-dildo
     scene sm1cs-arj002-152 mc-arj-sy-pause-sit-on-tip with fade
     #stacy guides her down to the shaft
     play voisex4 amrose_sex_orgasm2 noloop
@@ -791,7 +791,7 @@ label sm1cs_arj002:
     sy "Mrrmmm."
     #arj kissing her back
     arj "Ymmmm."
-    # animation 3- stacy fucking amrose with strapon - stacy is sitting on the chair holding arj - they're kissing and moaning intermitently
+    # animation 3- stacy fucking amrose with strapon - stacy is sitting on the chair holding arj - they're kissing and moaning intermittently
     scene sm1cs-arj002-155 mc-arj-sy-animation-three-chair-strapon with dissolve
     play voisex3 stacy_fmoans5
     play voisex4 amrose_old_moaning2

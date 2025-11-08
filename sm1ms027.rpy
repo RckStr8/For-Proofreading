@@ -192,7 +192,7 @@ label sm1ms027:
     if player.get_choice("first_movie") == "pirates_movie":
         sy "Oh my god, someone made a meme out when Taisia throws me around at the end."
     else:
-        sy "People really liked the design of Nari as an alien. And they thought the sets and costume ruled1"
+        sy "People really liked the design of Nari as an alien. And they thought the sets and costume ruled!"
     play sound sfx_bed_slide3
     scene sm1ms027-28 mc-sy-sitting_c1 with dissolve
     play voice2 mc_thinking_mmm3 noloop
