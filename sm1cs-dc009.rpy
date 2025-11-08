@@ -568,7 +568,7 @@ label sm1cs_dc009:
     jc "I... fuck, whatever. We're out of here."
     # co1 and co2 both start walking for the door
     scene sm1cs_dc009-80 mc-dc-walk_c2 with dissolve
-    dc "Enjoy my paperwork"
+    dc "Enjoy my paperwork."
     scene sm1cs_dc009-81 mc-dc-talk_c1 with dissolve
     mc "And, for the record, she is my girlfriend!"
     # co1 and co2 are gone, dc looking at mc

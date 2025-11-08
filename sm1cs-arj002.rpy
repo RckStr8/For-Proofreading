@@ -659,7 +659,7 @@ label sm1cs_arj002:
     #alt angle anim 1
     play voisex3 stacy_disappointed_oh7 noloop
     sy "Oh that is so hot."
-    mc "Fuck me, her lips feel so good"
+    mc "Fuck me, her lips feel so good."
     #alt angle anim 1
     arj "*wet, sloppy sucking*"
     ###pause animation 1
