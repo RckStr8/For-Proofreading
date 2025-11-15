@@ -1,3 +1,11 @@
+Make sure the images match the dialogue (check image name for reference)
+
+Make sure that the order of the images are maintained properly
+
+Do not edit or remove any dialogues except adding the images
+
+Images without a dilogaue needs a `pause` after it
+
 This is an example of previous part of a scene. Use this as the template for how the images go with the dialogues -
 
 ```
